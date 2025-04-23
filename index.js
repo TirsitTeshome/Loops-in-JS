@@ -178,7 +178,7 @@ registration(users)
 
 //Question 8
 
-function retake() {
+function examRetake() {
 
 
     do {
@@ -194,4 +194,4 @@ function retake() {
 }
 let score = 15
 let attempt = 1
-retake()
+examRetake()
